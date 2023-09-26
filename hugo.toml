@@ -1,0 +1,13 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'relearn'
+
+# For search functionality
+[outputs]
+home = [ "HTML", "RSS", "SEARCH"]
+
+[params]
+  # Change default color scheme with a variant one.
+   themeVariant = [ "blue","green","learn","neon","relearn","zend-light","zend-dark","relearn-light", "relearn-dark","auto"]
+  # themeVariant = ["blue","relearn-light", "relearn-dark","auto"]

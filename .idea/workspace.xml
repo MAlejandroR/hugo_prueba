@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="912611c9-bc9d-49fe-8eea-e8bac6acf2b9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/hugo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a/.idea/a.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a/static/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../i/.idea/i.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../i/Web" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inaem/.idea/blade.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inaem/.idea/inaem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inaem/.idea/laravel-idea-personal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inaem/.idea/laravel-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inaem/content/docs/presentacion/horarioGeneral.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitufin/.idea/pitufin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitufin/daw/.idea/daw.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitufin/ej_themes/.idea/ej_themes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitufin/ejemplo/.idea/ejemplo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitufin/main/.idea/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitufin/nacho/.idea/nacho.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitufin/p1/.idea/p1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitufin/p2/.idea/p2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitufin/p3/.idea/p3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pitufin/p5/.idea/p5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/partials/initial.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/.idea/web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/assets/css/copy-code-button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/assets/icons/icon_vue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/assets/js/copy-code-button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/1_instalacion/directory_tree_new_project.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/1_instalacion/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/2_temas/first_page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/2_temas/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/3_contenido/estructura_content.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/3_contenido/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/3_git/create_repositorio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/3_git/developer_setting.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/3_git/estructura_content.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/3_git/generar_token_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/3_git/git_new_user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/3_git/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/3_git/new_repositorio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/3_git/new_repositorio_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/3_git/opcion_setting.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/3_git/personal_access_token.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/3_git/repositorio_creado.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/3_git/scope.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/3_git/url_repositorio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/4_shortcode/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/5_estilo_plantilla/actualizado_footer_menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/5_estilo_plantilla/estructura_directorios_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/5_estilo_plantilla/ficheros_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/5_estilo_plantilla/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/5_estilo_plantilla/menu_izquierdo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/5_estilo_plantilla/menu_titulo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/5_estilo_plantilla/pagina_home_modificado.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/5_estilo_plantilla/pagina_nuevo_estilo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/5_estilo_plantilla/partes_plantilla_estilo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/5_estilo_plantilla/partial_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/5_estilo_plantilla/partial_logo_personalizado.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/5_estilo_plantilla/sitio_web_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/5_estilo_plantilla/style_blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/5_estilo_plantilla/style_default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/5_estilo_plantilla/style_green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/5_estilo_plantilla/style_red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/5_estilo_plantilla/temas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/6_multilenguajes/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/6_multilenguajes/listado_idiomas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/7_plantillas/canales_tv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/7_plantillas/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/7_plantillas/plantilla_customer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/7_plantillas/plantilla_tv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/8.- datos.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/busquedas.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/datos2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/despliegue.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/hugo/pruebas.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/laravel/Test/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/laravel/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/laravel/controlador/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/laravel/instalacion/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/vue/1_instalacion/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/vue/2_componentes/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/vue/3_tabla/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/vue/4_directivas/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/vue/5_metodos/5_metodos.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/vue/7_paginacion/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/docs/vue/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/featured-background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/content/es/search.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/layouts/_default/_markup/render-codeblock-chem.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/layouts/_default/_markup/render-codeblock-math.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/layouts/_default/_markup/render-codeblock-mermaid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/layouts/_default/baseof.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/layouts/_default/content.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/layouts/_default/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/layouts/_default/list.rss.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/layouts/_default/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/layouts/_default/single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/layouts/_default/taxonomy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/layouts/_default/terms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/layouts/docs/baseof.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/layouts/docs/baseof.print.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/layouts/docs/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/layouts/docs/list.print.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/layouts/docs/single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/layouts/layouts/_default/single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/layouts/layouts/blog/baseof.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/layouts/layouts/blog/baseof.print.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/layouts/layouts/blog/content.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/layouts/layouts/blog/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/layouts/layouts/blog/section.print.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/layouts/layouts/blog/single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/layouts/layouts/docs/datos2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/layouts/layouts/docs/pruebas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/layouts/partials/allLanguages.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/layouts/partials/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/layouts/shortcodes/color.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/static/css/post.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/static/js/copy-code-button.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/.idea/webServers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/content/es/docs/2_hugo/2_temas/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/content/es/docs/2_hugo/2_temas/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/content/es/docs/2_hugo/3_contenido/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/content/es/docs/2_hugo/3_contenido/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/content/es/docs/2_hugo/5_estilo_plantilla/temas.png" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/content/es/docs/2_hugo/5_estilo_plantilla/temas.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/docs/0_presentación/0_manuel/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/docs/0_presentación/0_manuel/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/docs/0_presentación/1_motivacion/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/docs/0_presentación/1_motivacion/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/docs/0_presentación/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/docs/0_presentación/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/docs/100_pruebas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/docs/100_pruebas/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/docs/1_conceptos-de-web-developer/12_servidor/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/docs/1_conceptos-de-web-developer/12_servidor/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/docs/1_conceptos-de-web-developer/1_0_introducción/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/docs/1_conceptos-de-web-developer/1_0_introducción/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/docs/1_conceptos-de-web-developer/1_1_cliente/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/docs/1_conceptos-de-web-developer/1_1_cliente/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/docs/1_conceptos-de-web-developer/1_2_red/12_0_procolos_y_configuraciones/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/docs/1_conceptos-de-web-developer/1_2_red/12_0_procolos_y_configuraciones/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/docs/1_conceptos-de-web-developer/1_2_red/12_1_comando-curl/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/docs/1_conceptos-de-web-developer/1_2_red/12_1_comando-curl/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/docs/1_conceptos-de-web-developer/1_2_red/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/docs/1_conceptos-de-web-developer/1_2_red/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/docs/1_conceptos-de-web-developer/20_desarrollar-una-aplicación/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/docs/1_conceptos-de-web-developer/20_desarrollar-una-aplicación/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/docs/1_conceptos-de-web-developer/30_aplicacion-en-la-web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/docs/1_conceptos-de-web-developer/30_aplicacion-en-la-web/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/docs/1_conceptos-de-web-developer/40_entornoservidor/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/docs/1_conceptos-de-web-developer/40_entornoservidor/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/docs/1_conceptos-de-web-developer/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/docs/1_conceptos-de-web-developer/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/docs/2_hugo/1_instalacion/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/docs/2_hugo/1_instalacion/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/docs/2_hugo/2_temas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/docs/2_hugo/2_temas/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/docs/2_hugo/3_contenido/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/docs/2_hugo/3_contenido/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/docs/2_hugo/3_git/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/docs/2_hugo/3_git/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/docs/2_hugo/4_shortcode/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/docs/2_hugo/4_shortcode/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/docs/2_hugo/5_estilo_plantilla/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/docs/2_hugo/5_estilo_plantilla/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/docs/2_hugo/5_estilo_plantilla/temas.png" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/docs/2_hugo/5_estilo_plantilla/temas.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/docs/2_hugo/5_estilo_plantilla/temas_hu2246284ea56ea70bde82682efdc900e7_5674_600x700_fit_box_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/docs/2_hugo/6_multilenguajes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/docs/2_hugo/6_multilenguajes/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/docs/2_hugo/7_plantillas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/docs/2_hugo/7_plantillas/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/docs/2_hugo/8.-datos/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/docs/2_hugo/8.-datos/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/docs/2_hugo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/docs/2_hugo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/docs/2_hugo/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/docs/2_hugo/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/docs/3_-php_/contenido/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/docs/3_-php_/contenido/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/docs/3_-php_/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/docs/3_-php_/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/docs/4_laravel_/contenido/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/docs/4_laravel_/contenido/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/docs/4_laravel_/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/docs/4_laravel_/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/docs/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/docs/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/en/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/en/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/en/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/en/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/en/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/en/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/en/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/en/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/fr/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/fr/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/fr/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/fr/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/fr/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/fr/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/fr/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/fr/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/search/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/search/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/public/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/themes/docsy" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/themes/docsy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/relearn/exampleSite/static/js/github-buttons.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/relearn/exampleSite/static/js/github-buttons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/relearn/static/js/auto-complete.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/relearn/static/js/auto-complete.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/relearn" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/bin/php" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2Vv2t2Yt54GnmsRy7D6zZ1im7av" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.laravel-idea.search-composer-json&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/oem/hugo/prueba/layouts/partials&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/layouts/partials" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="912611c9-bc9d-49fe-8eea-e8bac6acf2b9" name="Changes" comment="" />
+      <created>1695702444962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695702444962</updated>
+      <workItem from="1695702445962" duration="142000" />
+      <workItem from="1695702805304" duration="3015000" />
+      <workItem from="1695710301818" duration="111000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
