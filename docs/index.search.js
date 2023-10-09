@@ -1,13 +1,13 @@
 var relearn_search_index = [
   {
-    "breadcrumb": "My New Hugo Site \u003e Introduccion",
+    "breadcrumb": "My New Hugo Site \u003e 01_Introduccion",
     "content": "toml yaml json\nContendido no pongo nada\n",
     "description": "",
     "tags": [
       "Blog"
     ],
     "title": "Contenidos",
-    "uri": "/introduccion/contenido/index.html"
+    "uri": "/introduccion.fr/contenido/index.html"
   },
   {
     "breadcrumb": "My New Hugo Site",
@@ -18,8 +18,8 @@ var relearn_search_index = [
       "Web",
       "Blog"
     ],
-    "title": "Introduccion",
-    "uri": "/introduccion/index.html"
+    "title": "01_Introduccion",
+    "uri": "/introduccion.fr/index.html"
   },
   {
     "breadcrumb": "My New Hugo Site \u003e Tags",

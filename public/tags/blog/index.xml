@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Ejemplo para el uso de idiomas</title>
+    <link>https://example.org/tags/blog/index.html</link>
+    <description>Recent content in Blog on Ejemplo para el uso de idiomas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language><atom:link href="https://example.org/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contenidos</title>
+      <link>https://example.org/introduccion/contenido/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/introduccion/contenido/index.html</guid>
+      <description>toml yaml json
+iconos Contendido no pongo nada</description>
+    </item>
+    <item>
+      <title>Introduccion</title>
+      <link>https://example.org/introduccion/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/introduccion/index.html</guid>
+      <description>There may be pirates It is all about the boxes.
+colocando shortcode Esto es un título explíto toml yaml json ASDASDAS esto es un título html # Esto es un título markdown Mermaid flowchart TD Start --&amp;gt; Stop Programación php qué bonito es el php
+Lorem Ipsum.
+Visualizando variables URL Base de este sitio
+Valor de color red
+editURL value: http://localhost editURL value: http://localhost copia este testo si quieres</description>
+    </item>
+    <item>
+      <title>tema 1</title>
+      <link>https://example.org/introduccion/tema-1/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/introduccion/tema-1/index.html</guid>
+      <description>There may be pirates It is all about the boxes.
+colocando shortcode Esto es un título explíto toml yaml json ASDASDAS esto es un título html # Esto es un título markdown Mermaid flowchart TD Start --&amp;gt; Stop Programación php qué bonito es el php
+Lorem Ipsum.
+Visualizando variables URL Base de este sitio
+Valor de color red
+editURL value: http://localhost editURL value: http://localhost copia este testo si quieres</description>
+    </item>
+    <item>
+      <title>tema 2</title>
+      <link>https://example.org/introduccion/tema-2/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/introduccion/tema-2/index.html</guid>
+      <description>There may be pirates It is all about the boxes.
+colocando shortcode Esto es un título explíto toml yaml json ASDASDAS esto es un título html # Esto es un título markdown Mermaid flowchart TD Start --&amp;gt; Stop Programación php qué bonito es el php
+Lorem Ipsum.
+Visualizando variables URL Base de este sitio
+Valor de color red
+editURL value: http://localhost editURL value: http://localhost copia este testo si quieres</description>
+    </item>
+    <item>
+      <title>tema 3</title>
+      <link>https://example.org/introduccion/tema-3/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/introduccion/tema-3/index.html</guid>
+      <description>There may be pirates It is all about the boxes.
+colocando shortcode Esto es un título explíto toml yaml json ASDASDAS esto es un título html # Esto es un título markdown Mermaid flowchart TD Start --&amp;gt; Stop Programación php qué bonito es el php
+Lorem Ipsum.
+Visualizando variables URL Base de este sitio
+Valor de color red
+editURL value: http://localhost editURL value: http://localhost copia este testo si quieres</description>
+    </item>
+  </channel>
+</rss>

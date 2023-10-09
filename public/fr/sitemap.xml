@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://example.org/fr/introduccion/contenido/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.org/introduccion/contenido/index.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.org/introduccion/contenido/index.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.org/fr/introduccion/contenido/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.org/en/introduccion/contenido/index.html" />
+  </url>
+  <url>
+    <loc>https://example.org/fr/introduccion/plantilla/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.org/introduccion/plantilla/index.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.org/introduccion/plantilla/index.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.org/fr/introduccion/plantilla/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.org/en/introduccion/plantilla/index.html" />
+  </url>
+  <url>
+    <loc>https://example.org/fr/introduccion/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.org/introduccion/index.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.org/introduccion/index.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.org/fr/introduccion/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.org/en/introduccion/index.html" />
+  </url>
+  <url>
+    <loc>https://example.org/fr/introduccion/tema-1/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.org/introduccion/tema-1/index.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.org/introduccion/tema-1/index.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.org/fr/introduccion/tema-1/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.org/en/introduccion/tema-1/index.html" />
+  </url>
+  <url>
+    <loc>https://example.org/fr/introduccion/tema-2/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.org/introduccion/tema-2/index.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.org/introduccion/tema-2/index.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.org/fr/introduccion/tema-2/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.org/en/introduccion/tema-2/index.html" />
+  </url>
+  <url>
+    <loc>https://example.org/fr/introduccion/tema-3/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.org/introduccion/tema-3/index.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.org/introduccion/tema-3/index.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.org/fr/introduccion/tema-3/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.org/en/introduccion/tema-3/index.html" />
+  </url>
+  <url>
+    <loc>https://example.org/fr/tags/blog/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.org/tags/blog/index.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.org/tags/blog/index.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.org/fr/tags/blog/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.org/en/tags/blog/index.html" />
+  </url>
+  <url>
+    <loc>https://example.org/fr/categories/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.org/categories/index.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.org/categories/index.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.org/fr/categories/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.org/en/categories/index.html" />
+  </url>
+  <url>
+    <loc>https://example.org/fr/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.org/index.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.org/index.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.org/fr/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.org/en/index.html" />
+  </url>
+  <url>
+    <loc>https://example.org/fr/tags/hugo/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.org/tags/hugo/index.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.org/tags/hugo/index.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.org/fr/tags/hugo/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.org/en/tags/hugo/index.html" />
+  </url>
+  <url>
+    <loc>https://example.org/fr/tags/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.org/tags/index.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.org/tags/index.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.org/fr/tags/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.org/en/tags/index.html" />
+  </url>
+  <url>
+    <loc>https://example.org/fr/categories/tecnolog%C3%ADa/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.org/categories/tecnolog%C3%ADa/index.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.org/categories/tecnolog%C3%ADa/index.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.org/fr/categories/tecnolog%C3%ADa/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.org/en/categories/tecnolog%C3%ADa/index.html" />
+  </url>
+  <url>
+    <loc>https://example.org/fr/categories/viajes/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.org/categories/viajes/index.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.org/categories/viajes/index.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.org/fr/categories/viajes/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.org/en/categories/viajes/index.html" />
+  </url>
+  <url>
+    <loc>https://example.org/fr/tags/web/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.org/tags/web/index.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://example.org/tags/web/index.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://example.org/fr/tags/web/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.org/en/tags/web/index.html" />
+  </url>
+</urlset>

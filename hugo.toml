@@ -1,17 +1,49 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
+baseURL = 'https://cpilosenlaces-malejandror.github.io/prueba'
+
 title = 'My New Hugo Site'
 theme = 'relearn'
+defaultContentLanguage="es"
+
+
+
 # For search functionality
+additionalContentLanguage = [ "en" ,"es","fr"]
 
 
 [outputs]
 home = [ "HTML", "RSS", "SEARCH"]
 
+[Languages]
+    [Languages.en]
+        title = "Example use language"
+        weight = 2
+        languageName = "English"
+        ContentDir="content/fr"
+
+    [Languages.es]
+        title = "Ejemplo para el uso de idiomas"
+        weight = 1
+        languageName = "Español"
+        ContentDir="content/es"
+   [Languages.fr]
+        title = "Exemple d'utilisation des langues"
+        weight = 1
+        languageName = "Français"
+        ContentDir="content/fr"
 [params]
   editURL = "http://localhost"
   # Change default color scheme with a variant one.
     #themeVariant = [ "blue","green","learn","neon","relearn","zend-light","zend-dark","relearn-light", "relearn-dark","auto"]
-  # themeVariant = ["relearn-light", "relearn-dark","auto"]
-  themeVariant = "personal"
+   themeVariant = ["relearn-light", "relearn-dark","auto"]
+  # themeVariant = "personal"
   color = "red"
+
+
+
+
+# disableShortcutsTitle=true
+
+[Shortcuts-Title]
+    other = "Más opciones"
+
+

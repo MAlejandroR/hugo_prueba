@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web on Exemple d&#39;utilisation des langues</title>
+    <link>https://example.org/fr/tags/web/index.html</link>
+    <description>Recent content in Web on Exemple d&#39;utilisation des langues</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language><atom:link href="https://example.org/fr/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduccion</title>
+      <link>https://example.org/fr/introduccion/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/fr/introduccion/index.html</guid>
+      <description>There may be pirates It is all about the boxes.
+colocando shortcode Esto es un título explíto toml yaml json ASDASDAS esto es un título html # Esto es un título markdown Mermaid flowchart TD Start --&amp;gt; Stop Programación php qué bonito es el php
+Lorem Ipsum.
+Visualizando variables URL Base de este sitio
+Valor de color red
+editURL value: http://localhost editURL value: http://localhost copia este testo si quieres</description>
+    </item>
+    <item>
+      <title>tema 1</title>
+      <link>https://example.org/fr/introduccion/tema-1/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/fr/introduccion/tema-1/index.html</guid>
+      <description>There may be pirates It is all about the boxes.
+colocando shortcode Esto es un título explíto toml yaml json ASDASDAS esto es un título html # Esto es un título markdown Mermaid flowchart TD Start --&amp;gt; Stop Programación php qué bonito es el php
+Lorem Ipsum.
+Visualizando variables URL Base de este sitio
+Valor de color red
+editURL value: http://localhost editURL value: http://localhost copia este testo si quieres</description>
+    </item>
+    <item>
+      <title>tema 2</title>
+      <link>https://example.org/fr/introduccion/tema-2/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/fr/introduccion/tema-2/index.html</guid>
+      <description>There may be pirates It is all about the boxes.
+colocando shortcode Esto es un título explíto toml yaml json ASDASDAS esto es un título html # Esto es un título markdown Mermaid flowchart TD Start --&amp;gt; Stop Programación php qué bonito es el php
+Lorem Ipsum.
+Visualizando variables URL Base de este sitio
+Valor de color red
+editURL value: http://localhost editURL value: http://localhost copia este testo si quieres</description>
+    </item>
+    <item>
+      <title>tema 3</title>
+      <link>https://example.org/fr/introduccion/tema-3/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/fr/introduccion/tema-3/index.html</guid>
+      <description>There may be pirates It is all about the boxes.
+colocando shortcode Esto es un título explíto toml yaml json ASDASDAS esto es un título html # Esto es un título markdown Mermaid flowchart TD Start --&amp;gt; Stop Programación php qué bonito es el php
+Lorem Ipsum.
+Visualizando variables URL Base de este sitio
+Valor de color red
+editURL value: http://localhost editURL value: http://localhost copia este testo si quieres</description>
+    </item>
+  </channel>
+</rss>
