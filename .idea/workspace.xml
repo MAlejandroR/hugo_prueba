@@ -178,7 +178,6 @@
       <change afterPath="$PROJECT_DIR$/../contenidoWebDistancia/public/webfonts/fa-solid-900.woff2" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../contenidoWebDistancia/public/webfonts/fa-v4compatibility.ttf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../contenidoWebDistancia/public/webfonts/fa-v4compatibility.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitmodules" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../a/static/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/../a/static/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../contenidoWeb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/.idea/workspace.xml" afterDir="false" />
@@ -715,21 +714,7 @@
       <change beforePath="$PROJECT_DIR$/../nett/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../nett/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../nett/public/search/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../nett/public/search/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../nett/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../nett/public/tags/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/prueba.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/prueba.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/relearn" beforeDir="false" afterPath="$PROJECT_DIR$/themes/relearn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/relearn/exampleSite/static/js/github-buttons.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/relearn/exampleSite/static/js/github-buttons.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/relearn/layouts/partials/initial.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/relearn/layouts/partials/initial.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/relearn/layouts/partials/shortcodes/expand.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/relearn/layouts/partials/shortcodes/expand.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/relearn/layouts/partials/shortcodes/notice.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/relearn/layouts/partials/shortcodes/notice.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/relearn/layouts/partials/shortcodes/tabs.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/relearn/layouts/partials/shortcodes/tabs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/relearn/static/css/fontawesome-all.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/relearn/static/css/fontawesome-all.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/relearn/static/css/format-print.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/relearn/static/css/format-print.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/relearn/static/css/theme-neon.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/relearn/static/css/theme-neon.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/relearn/static/css/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/relearn/static/css/theme.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/relearn/static/js/auto-complete.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/relearn/static/js/auto-complete.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/relearn/static/js/theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/relearn/static/js/theme.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../themes/blowfish" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../web/assets/css/copy-code-button.css" beforeDir="false" afterPath="$PROJECT_DIR$/../web/assets/css/copy-code-button.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../web/assets/js/copy-code-button.js" beforeDir="false" afterPath="$PROJECT_DIR$/../web/assets/js/copy-code-button.js" afterDir="false" />
@@ -820,7 +805,7 @@
       <workItem from="1695713807102" duration="47000" />
       <workItem from="1695734295091" duration="1247000" />
       <workItem from="1695745520436" duration="16000" />
-      <workItem from="1696825233462" duration="613000" />
+      <workItem from="1696825233462" duration="739000" />
     </task>
     <servers />
   </component>
