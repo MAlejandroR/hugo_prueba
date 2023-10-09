@@ -1,4 +1,4 @@
-baseURL = 'https://cpilosenlaces-malejandror.github.io/hugo_prueba'
+baseURL = 'https://cpilosenlaces-malejandror.github.io/hugo_prueba/'
 
 title = 'My New Hugo Site'
 theme = 'relearn'

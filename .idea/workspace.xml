@@ -181,6 +181,7 @@
       <change beforePath="$PROJECT_DIR$/../.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitmodules" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../a/static/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/../a/static/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../contenidoWeb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contenidoWeb/content/es/docs/2_hugo/3_git/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/../contenidoWeb/content/es/docs/2_hugo/3_git/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../i/Web" beforeDir="false" afterPath="$PROJECT_DIR$/../i/Web" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../laravel/themes/docsy/.editorconfig" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../laravel/themes/docsy/.gitignore" beforeDir="false" />
@@ -805,7 +806,7 @@
       <workItem from="1695713807102" duration="47000" />
       <workItem from="1695734295091" duration="1247000" />
       <workItem from="1695745520436" duration="16000" />
-      <workItem from="1696825233462" duration="739000" />
+      <workItem from="1696825233462" duration="1000000" />
     </task>
     <servers />
   </component>
